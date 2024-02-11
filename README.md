@@ -1,3 +1,12 @@
+# 说明
+
+可能仅适合我个人
+
+畅网8505 6口2.5g（226）
+
+
+
+
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
